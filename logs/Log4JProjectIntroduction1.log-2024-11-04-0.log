@@ -1,0 +1,12 @@
+2024-11-04 21:35:44,320  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   INFO--> Info Level log!!!  :   process     
+2024-11-04 21:35:44,321  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   ERROR--> Error Level Log!!!  :   process     
+2024-11-04 21:35:44,322  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   WARN--> Warning level Log!!!!  :   process     
+2024-11-04 21:35:45,367  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   DEBUG--> Debugging Level log!!!  :   process     
+2024-11-04 21:35:45,367  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   INFO--> Info Level log!!!  :   process     
+2024-11-04 21:35:45,378  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   ERROR--> Error Level Log!!!  :   process     
+2024-11-04 21:35:45,378  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   WARN--> Warning level Log!!!!  :   process     
+2024-11-04 21:37:13,921  :  com.atuluttam.Log4JProjectIntroduction1.Log4JProjectIntroduction1Application       :   INFO--> Starting Log4JProjectIntroduction1Application using Java 22.0.1 with PID 17620 (C:\Users\GFG19669\Downloads\Log4JProjectIntroduction1\target\classes started by GFG19669 in C:\Users\GFG19669\Downloads\Log4JProjectIntroduction1)  :   logStarting     
+2024-11-04 21:37:13,923  :  com.atuluttam.Log4JProjectIntroduction1.Log4JProjectIntroduction1Application       :   DEBUG--> Running with Spring Boot v3.3.5, Spring v6.1.14  :   logStarting     
+2024-11-04 21:37:13,925  :  com.atuluttam.Log4JProjectIntroduction1.Log4JProjectIntroduction1Application       :   INFO--> No active profile set, falling back to 1 default profile: "default"  :   logStartupProfileInfo     
+2024-11-04 21:37:15,288  :  org.springframework.boot.web.embedded.tomcat.TomcatWebServer       :   INFO--> Tomcat initialized with port 8080 (http)  :   initialize     
+2024-11-04 21:37:15,315  :  org.apache.catalina.core.StandardService       :   INFO--> Starting service [Tomcat]  :   log     

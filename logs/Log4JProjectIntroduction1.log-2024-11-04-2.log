@@ -1,0 +1,7 @@
+2024-11-04 21:37:16,199  :  org.springframework.web.servlet.DispatcherServlet       :   INFO--> Initializing Servlet 'dispatcherServlet'  :   initServletBean     
+2024-11-04 21:37:16,201  :  org.springframework.web.servlet.DispatcherServlet       :   INFO--> Completed initialization in 1 ms  :   initServletBean     
+2024-11-04 21:37:16,258  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   DEBUG--> Debugging Level log!!!  :   process     
+2024-11-04 21:37:16,258  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   INFO--> Info Level log!!!  :   process     
+2024-11-04 21:37:16,265  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   ERROR--> Error Level Log!!!  :   process     
+2024-11-04 21:37:16,265  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   WARN--> Warning level Log!!!!  :   process     
+2024-11-04 21:37:17,302  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   DEBUG--> Debugging Level log!!!  :   process     

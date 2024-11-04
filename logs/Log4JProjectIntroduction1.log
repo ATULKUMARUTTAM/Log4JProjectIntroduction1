@@ -1,0 +1,7 @@
+2024-11-04 21:37:18,638  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   INFO--> Info Level log!!!  :   process     
+2024-11-04 21:37:18,646  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   ERROR--> Error Level Log!!!  :   process     
+2024-11-04 21:37:18,646  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   WARN--> Warning level Log!!!!  :   process     
+2024-11-04 21:37:19,145  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   DEBUG--> Debugging Level log!!!  :   process     
+2024-11-04 21:37:19,145  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   INFO--> Info Level log!!!  :   process     
+2024-11-04 21:37:19,160  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   ERROR--> Error Level Log!!!  :   process     
+2024-11-04 21:37:19,160  :  com.atuluttam.Log4JProjectIntroduction1.TestController       :   WARN--> Warning level Log!!!!  :   process     
